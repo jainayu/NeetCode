@@ -3,7 +3,7 @@ This repository contains [NeetCode Practice](https://neetcode.io/practice) codes
 
 ### Content
 <details>
-  <summary>[**Arrays and Hashing**](https://github.com/jainayu/NeetCode/tree/main/Arrays%20and%20Hashing)</summary>
+  <summary>Arrays and Hashing</summary>
   
   - [Contains Duplicate](https://github.com/jainayu/NeetCode/blob/main/Arrays%20and%20Hashing/ContainsDuplicate.cs)
   - [Valid Anagram](https://github.com/jainayu/NeetCode/blob/main/Arrays%20and%20Hashing/ValidAnagram.cs)
