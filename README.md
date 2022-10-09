@@ -12,6 +12,7 @@ This repository contains [NeetCode Practice](https://neetcode.io/practice) codes
   - [Length Of Last Word](./Arrays%20and%20Hashing/LengthOfLastWord.cs)
   - [Two Sum](./Arrays%20and%20Hashing/TwoSum.cs)
   - [Longest Common Prefix](./Arrays%20and%20Hashing/LongestCommonPrefix.cs)
+  - [Pascal's Triangle](./Arrays%20and%20Hashing/PascalsTriangle.cs)
   - [Remove Element](./Arrays%20and%20Hashing/RemoveElement.cs)
   - [Unique Email Addresses](./Arrays%20and%20Hashing/UniqueEmailAddresses.cs)
 </details>
