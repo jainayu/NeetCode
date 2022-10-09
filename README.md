@@ -13,6 +13,6 @@ This repository contains [NeetCode Practice](https://neetcode.io/practice) codes
   - [Two Sum](./Arrays%20and%20Hashing/TwoSum.cs)
   - [Longest Common Prefix](./Arrays%20and%20Hashing/LongestCommonPrefix.cs)
   - [Remove Element](./Arrays%20and%20Hashing/RemoveElement.cs)
-  
+  - [Unique Email Addresses](./Arrays%20and%20Hashing/UniqueEmailAddresses.cs)
 </details>
 
