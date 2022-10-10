@@ -5,15 +5,16 @@ This repository contains [NeetCode Practice](https://neetcode.io/practice) codes
 <details>
   <summary>Arrays and Hashing</summary>
   
-  - [Contains Duplicate](./Arrays%20and%20Hashing/ContainsDuplicate.cs)
-  - [Valid Anagram](./Arrays%20and%20Hashing/ValidAnagram.cs)
-  - [Replace Elements with Greatest Element On Right Side](./Arrays%20and%20Hashing/ReplaceElements.cs)
-  - [Is Subsequence](./Arrays%20and%20Hashing/IsSubsequence.cs)
-  - [Length Of Last Word](./Arrays%20and%20Hashing/LengthOfLastWord.cs)
-  - [Two Sum](./Arrays%20and%20Hashing/TwoSum.cs)
-  - [Longest Common Prefix](./Arrays%20and%20Hashing/LongestCommonPrefix.cs)
-  - [Pascal's Triangle](./Arrays%20and%20Hashing/PascalsTriangle.cs)
-  - [Remove Element](./Arrays%20and%20Hashing/RemoveElement.cs)
-  - [Unique Email Addresses](./Arrays%20and%20Hashing/UniqueEmailAddresses.cs)
+  1. [Contains Duplicate](./Arrays%20and%20Hashing/ContainsDuplicate.cs)
+  2. [Valid Anagram](./Arrays%20and%20Hashing/ValidAnagram.cs)
+  3. [Replace Elements with Greatest Element On Right Side](./Arrays%20and%20Hashing/ReplaceElements.cs)
+  4. [Is Subsequence](./Arrays%20and%20Hashing/IsSubsequence.cs)
+  5. [Length Of Last Word](./Arrays%20and%20Hashing/LengthOfLastWord.cs)
+  6. [Two Sum](./Arrays%20and%20Hashing/TwoSum.cs)
+  7. [Longest Common Prefix](./Arrays%20and%20Hashing/LongestCommonPrefix.cs)
+  8. [Pascal's Triangle](./Arrays%20and%20Hashing/PascalsTriangle.cs)
+  9. [Remove Element](./Arrays%20and%20Hashing/RemoveElement.cs)
+  10. [Unique Email Addresses](./Arrays%20and%20Hashing/UniqueEmailAddresses.cs)
+  11. [Can Place Flowers](./Arrays%20and%20Hashing/CanPlaceFlowers.cs.cs)
 </details>
 
