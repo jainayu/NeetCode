@@ -15,6 +15,6 @@ This repository contains [NeetCode Practice](https://neetcode.io/practice) codes
   8. [Pascal's Triangle](./Arrays%20and%20Hashing/PascalsTriangle.cs)
   9. [Remove Element](./Arrays%20and%20Hashing/RemoveElement.cs)
   10. [Unique Email Addresses](./Arrays%20and%20Hashing/UniqueEmailAddresses.cs)
-  11. [Can Place Flowers](./Arrays%20and%20Hashing/CanPlaceFlowers.cs.cs)
+  11. [Can Place Flowers](./Arrays%20and%20Hashing/CanPlaceFlowers.cs)
 </details>
 
