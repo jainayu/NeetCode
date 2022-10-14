@@ -19,5 +19,6 @@ This repository contains [NeetCode Practice](https://neetcode.io/practice) codes
   12. [Isomorphic String](./Arrays%20and%20Hashing/IsomorphicString.cs)
   13. [Can Place Flowers](./Arrays%20and%20Hashing/CanPlaceFlowers.cs)
   14. [Majority Element](./Arrays%20and%20Hashing/MajorityElement.cs)
+  15. [Next Greater Element I](./Arrays%20and%20Hashing/NextGreaterElementI.cs)
 </details>
 
